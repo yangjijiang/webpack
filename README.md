@@ -1,6 +1,7 @@
 # webpack
 webpack前端工程打包（webpack4+vue2.x+less3.x）
-步骤：cd 进入目录 src\main\webapp\ 下
+步骤：cd 进入目录 src\main\webapp\
+
     1：初始化：
         npm install
     
