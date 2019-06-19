@@ -1,6 +1,6 @@
 # webpack
 webpack前端工程打包（webpack4+vue2.x+less3.x）
-步骤：cd 进入目录 src\main\webapp\
+步骤：cd 进入根目录 
 
     1：初始化：
         npm install
@@ -9,7 +9,7 @@ webpack前端工程打包（webpack4+vue2.x+less3.x）
         npm run prod
     
     3：运行开发环境：
-        npm run dev-server
+        npm run dev
        
     启动参数说明：
         webpack   

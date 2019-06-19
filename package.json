@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "prod": "webpack --config webpack.prod.config.js --watch --progress --display-reason",
-    "dev-server": "webpack-dev-server --config webpack.dev.config.js --open --hot --inline --progress  "
+    "dev": "webpack-dev-server --config webpack.dev.config.js --open --hot --inline --progress  "
   },
   "author": "",
   "license": "ISC",

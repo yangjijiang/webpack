@@ -3,6 +3,5 @@
 **/*.iml
 **/node_modules
 **/dist
-**/main/index.html
 **/package-lock.json
 
