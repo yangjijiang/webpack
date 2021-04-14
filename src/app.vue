@@ -1,7 +1,7 @@
 <template>
     <div class="example">
         {{msg}}
-        <span>less</span>
+        <span>less-123</span>
     </div>
 </template>
 
